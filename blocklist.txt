@@ -1,3 +1,12 @@
+
+www.paterohost.de
+www.paterohost.eu
+www.redserv.de
+www.red-serv.de
+www.nxtbyte.net
+www.venocix.de
+www.nodeservers.de
+www.strato.de
 *.paterohost.de
 *.paterohost.eu
 *.redserv.de
