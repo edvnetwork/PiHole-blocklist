@@ -1,17 +1,8 @@
-
-www.paterohost.de
-www.paterohost.eu
-www.redserv.de
-www.red-serv.de
-www.nxtbyte.net
-www.venocix.de
-www.nodeservers.de
-www.strato.de
-*.paterohost.de
-*.paterohost.eu
-*.redserv.de
-*.red-serv.de
-*.nxtbyte.net
-*.venocix.de
-*.nodeservers.de
-*.strato.de
+127.0.0.1 *.paterohost.de
+127.0.0.1 *.paterohost.eu
+127.0.0.1 *.redserv.de
+127.0.0.1 *.red-serv.de
+127.0.0.1 *.nxtbyte.net
+127.0.0.1 *.venocix.de
+127.0.0.1 *.nodeservers.de
+127.0.0.1 *.strato.de
