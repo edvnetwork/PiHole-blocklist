@@ -1,0 +1,7 @@
+*.paterohost.de
+*.paterohost.eu
+*.redserv.de
+*.nxtbyte.net
+*.venocix.de
+*.nodeservers.de
+*.strato.de
