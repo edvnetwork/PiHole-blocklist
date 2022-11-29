@@ -7,6 +7,8 @@
 127.0.0.1 venocix.de
 127.0.0.1 nodeservers.de
 127.0.0.1 strato.de
+127.0.0.1 edv-network.io
+127.0.0.1 edv-network.group
 
 127.0.0.1 www.paterohost.de
 127.0.0.1 www.paterohost.eu
@@ -17,3 +19,5 @@
 127.0.0.1 www.venocix.de
 127.0.0.1 www.nodeservers.de
 127.0.0.1 www.strato.de
+127.0.0.1 www.edv-network.io
+127.0.0.1 www.edv-network.group
